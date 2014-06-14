@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP\obj\Debug\OOP.pdb

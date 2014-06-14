@@ -1,0 +1,4 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Abstract_Class_1\Abstract_Class_1\bin\Debug\Abstract_Class_1.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Abstract_Class_1\Abstract_Class_1\bin\Debug\Abstract_Class_1.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Abstract_Class_1\Abstract_Class_1\obj\Debug\Abstract_Class_1.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Abstract_Class_1\Abstract_Class_1\obj\Debug\Abstract_Class_1.pdb

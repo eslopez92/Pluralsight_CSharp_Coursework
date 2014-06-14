@@ -1,0 +1,1 @@
+The purpose of this repo is to show my coursework I have completed from Pluralsight (specifically C# courses).

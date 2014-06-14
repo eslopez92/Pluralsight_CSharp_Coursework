@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Studen_Teacher_interface\Studen_Teacher_interface\bin\Debug\Studen_Teacher_interface.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Studen_Teacher_interface\Studen_Teacher_interface\bin\Debug\Studen_Teacher_interface.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Studen_Teacher_interface\Studen_Teacher_interface\obj\Debug\Studen_Teacher_interface.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Studen_Teacher_interface\Studen_Teacher_interface\obj\Debug\Studen_Teacher_interface.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Studen_Teacher_interface\Studen_Teacher_interface\obj\Debug\Studen_Teacher_interface.pdb

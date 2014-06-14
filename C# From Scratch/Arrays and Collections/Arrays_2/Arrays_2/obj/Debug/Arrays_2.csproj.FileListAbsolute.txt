@@ -1,0 +1,4 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Arrays_2\Arrays_2\bin\Debug\Arrays_2.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Arrays_2\Arrays_2\bin\Debug\Arrays_2.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Arrays_2\Arrays_2\obj\Debug\Arrays_2.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Arrays_2\Arrays_2\obj\Debug\Arrays_2.pdb

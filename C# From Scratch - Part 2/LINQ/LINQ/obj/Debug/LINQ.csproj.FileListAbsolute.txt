@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\LINQ\LINQ\obj\Debug\LINQ.pdb

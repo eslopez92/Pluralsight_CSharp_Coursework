@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Search_in_array\Search_in_array\bin\Debug\Search_in_array.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Search_in_array\Search_in_array\bin\Debug\Search_in_array.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Search_in_array\Search_in_array\obj\Debug\Search_in_array.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Search_in_array\Search_in_array\obj\Debug\Search_in_array.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Search_in_array\Search_in_array\obj\Debug\Search_in_array.pdb

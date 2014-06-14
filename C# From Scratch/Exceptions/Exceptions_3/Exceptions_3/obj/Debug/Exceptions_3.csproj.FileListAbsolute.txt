@@ -1,0 +1,4 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exceptions_3\Exceptions_3\bin\Debug\Exceptions_3.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exceptions_3\Exceptions_3\bin\Debug\Exceptions_3.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exceptions_3\Exceptions_3\obj\Debug\Exceptions_3.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exceptions_3\Exceptions_3\obj\Debug\Exceptions_3.pdb

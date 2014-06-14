@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Lists_2\Lists_2\obj\Debug\Lists_2.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Lists_2\Lists_2\bin\Debug\Lists_2.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Lists_2\Lists_2\bin\Debug\Lists_2.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Lists_2\Lists_2\obj\Debug\Lists_2.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Lists_2\Lists_2\obj\Debug\Lists_2.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Array_even_numbers\Array_even_numbers\bin\Debug\Array_even_numbers.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Array_even_numbers\Array_even_numbers\bin\Debug\Array_even_numbers.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Array_even_numbers\Array_even_numbers\obj\Debug\Array_even_numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Array_even_numbers\Array_even_numbers\obj\Debug\Array_even_numbers.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Advanced Topics\Array_even_numbers\Array_even_numbers\obj\Debug\Array_even_numbers.pdb

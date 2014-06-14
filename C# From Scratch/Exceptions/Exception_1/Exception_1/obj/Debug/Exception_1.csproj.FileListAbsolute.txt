@@ -1,0 +1,4 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exception_1\Exception_1\bin\Debug\Exception_1.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exception_1\Exception_1\bin\Debug\Exception_1.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exception_1\Exception_1\obj\Debug\Exception_1.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Exceptions\Exception_1\Exception_1\obj\Debug\Exception_1.pdb

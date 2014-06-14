@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Aggregation_and_Composition\Aggregation_and_Composition\bin\Debug\Aggregation_and_Composition.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Aggregation_and_Composition\Aggregation_and_Composition\bin\Debug\Aggregation_and_Composition.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Aggregation_and_Composition\Aggregation_and_Composition\obj\Debug\Aggregation_and_Composition.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Aggregation_and_Composition\Aggregation_and_Composition\obj\Debug\Aggregation_and_Composition.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Aggregation_and_Composition\Aggregation_and_Composition\obj\Debug\Aggregation_and_Composition.pdb

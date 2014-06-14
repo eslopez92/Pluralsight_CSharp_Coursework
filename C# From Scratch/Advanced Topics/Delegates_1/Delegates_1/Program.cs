@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Delegates_1
+{
+    class Program
+    {
+        //a delegate is a reference to a method
+        static void Main(string[] args)
+        {
+            var tester = new MediaTester();
+            var mp3 = new MP3Player();
+            var mp4 = new MP4Player();
+
+            //basically means okay take this function "mpx.PlayMPxFile" and use it as a tester or delegate.
+            //run that delegate through the runtest function to see if it has failed or succeeded
+            var mp3Delegate = new MediaTester.TestMedia(mp3.PlayMP3File);
+            var mp4Delegate = new MediaTester.TestMedia(mp4.PlayMP4file);
+
+            tester.RunTest(mp3Delegate);
+            tester.RunTest(mp4Delegate);
+        }
+    }
+}

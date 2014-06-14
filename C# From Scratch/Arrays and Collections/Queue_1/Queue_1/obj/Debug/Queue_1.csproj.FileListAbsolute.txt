@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Queue_1\Queue_1\bin\Debug\Queue_1.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Queue_1\Queue_1\bin\Debug\Queue_1.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Queue_1\Queue_1\obj\Debug\Queue_1.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Queue_1\Queue_1\obj\Debug\Queue_1.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\Arrays and Collections\Queue_1\Queue_1\obj\Debug\Queue_1.pdb

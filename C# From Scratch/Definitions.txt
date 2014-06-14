@@ -1,0 +1,27 @@
+inheritance - classes can derive from other classes and have the same variables and methods as the                 base class.
+
+encapsulation - 
+
+polymorphism - classes derived from other classes can overrride the base class methods (mehtods in                  which have 'virtual' in it).
+
+sealed- A type of class that connot be inherited from (not used often)
+
+Abstract- A type of class that does not have an instance, only derived classed can have instances, 	          the opposite of a sealed class.
+
+Interface - Similar to an abstract class, (but not a class at all), other classes can derive from                multiple interfaces, and that derived class must set all the parameters and the methods              form the interface within its own definition.(Since Classes cannot be derived from                   multiple classes interfaces can do the trick!).
+
+virtual- Inherited functions from this class will be overrride this function
+
+overriding - virtual methods in derived class
+
+overloading - same method name in one class (like multiple constructors with different parameters)
+
+public - accesible from any other classes
+
+private - accessible only from manager class/objects
+
+protected - accessible only from manager class or other classes derived from manager
+
+internal - accessible only from any class in the assembly
+
+delegates - Is used as a variable to check to the status of a function in another class to see             the status of the end of that class function (ex function returns a 0, so success,             otherwise function failed in what it needed to do). It also refers to a method, and can             call that method through the delegate.

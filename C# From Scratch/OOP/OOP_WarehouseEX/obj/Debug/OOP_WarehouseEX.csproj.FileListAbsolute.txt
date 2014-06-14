@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP_WarehouseEX\obj\Debug\OOP.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP_WarehouseEX\obj\Debug\OOP.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP_WarehouseEX\obj\Debug\OOP_WarehouseEX.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP_WarehouseEX\bin\Debug\OOP.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch\OOP\OOP_WarehouseEX\bin\Debug\OOP.pdb

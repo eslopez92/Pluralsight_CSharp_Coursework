@@ -1,0 +1,5 @@
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.csprojResolveAssemblyReference.cache
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.pdb
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.exe
+C:\Users\Lopezem.AM\Desktop\C# Online Courses\Pluralsight\C# From Scratch - Part 2\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.pdb
